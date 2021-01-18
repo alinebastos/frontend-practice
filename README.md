@@ -67,6 +67,7 @@
 | [Hackerrank](https://www.hackerrank.com/) | :us: |
 | [InterviewBit](https://www.interviewbit.com) | :us: |
 | [JavaScript30](https://javascript30.com/) | :us: |
+| [JavaScript for beginners](https://jsbeginners.com/javascript-projects-for-beginners/) | :us: |
 | [LeetCode](https://leetcode.com/) | :us: |
 | [LintCode](http://www.lintcode.com/) | :us: |
 | [Regex Crossword](https://regexcrossword.com/) | :us: |
