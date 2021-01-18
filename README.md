@@ -4,10 +4,10 @@
 
 ## 📕 Índice
 
-📌 [Open Source Projects](#open-source-projects)<br>
-📌 [Ideas](#ideas)<br>
-📌 [Challenges](#challenges)<br>
-📌 [Games](#games)<br>
+* 📌 [Open Source Projects](#-Open-Source-Projects)<br>
+📌 [Ideas](#-Ideas)<br>
+📌 [Challenges](#-Challenges)<br>
+📌 [Games](#-Games)<br>
 
 ## 💻 Open Source Projects
 
@@ -201,4 +201,4 @@ Clique em [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
 Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
 
 
-<br>[⬆ Voltar ao índice](#índice)<br>
+<br>[⬆ Voltar ao índice](#-índice)<br>
